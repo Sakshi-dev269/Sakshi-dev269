@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Sakshi-dev269/Sakshi-dev2691/blob/main/images.jpg)
+![logo](https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,anim=false,background=white,quality=75,width=1000,height=285.7142857142857/calendar-cover-images/gj/5ba91811-19ad-440c-ab0a-1590e007c049)
 <h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" scr="<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/be9882be-12f9-4b4a-a39e-1cf00308e9fa" />
